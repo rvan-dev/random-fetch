@@ -4,7 +4,7 @@ The distro.txt should be up to date with all default available ascii's in neofet
 ## How to use
 Just add those lines into your .zshrc or .bashrc
 ```bash
-NUM=$(shuf -i 1-229 -n 1)
+NUM=$(shuf -i 1-230 -n 1)
 RDIST=$(awk NR==$NUM /pathToFile/distros.txt)
 neofetch --ascii_distro $RDIST
 ```
