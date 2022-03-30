@@ -7,9 +7,9 @@ AlterLinux
 Android  
 android_small  
 Antergos  
-antiX  
-"AOSC OS"  
-"AOSC OS/Retro"  
+antiX
+AOSC OS  
+AOSC OS/Retro  
 Arch  
 Apricity  
 ArchBox  
